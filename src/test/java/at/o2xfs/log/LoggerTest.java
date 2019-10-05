@@ -27,11 +27,12 @@
 
 package at.o2xfs.log;
 
+import static org.junit.jupiter.api.Assertions.assertTrue;
+
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 
-import org.junit.Assert;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 public class LoggerTest {
 
@@ -49,6 +50,6 @@ public class LoggerTest {
 			System.setOut(tmpOut);
 		}
 		String log = new String(outStream.toByteArray());
-		Assert.assertTrue(log.contains(message));
+		assertTrue(log.contains(message));
 	}
 }

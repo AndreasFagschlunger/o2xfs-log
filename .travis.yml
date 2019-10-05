@@ -1,0 +1,38 @@
+# BSD 2-Clause License
+# 
+# Copyright (c) 2019, AndreasFagschlunger
+# All rights reserved.
+# 
+# Redistribution and use in source and binary forms, with or without
+# modification, are permitted provided that the following conditions are met:
+# 
+# 1. Redistributions of source code must retain the above copyright notice, this
+#    list of conditions and the following disclaimer.
+# 
+# 2. Redistributions in binary form must reproduce the above copyright notice,
+#    this list of conditions and the following disclaimer in the documentation
+#    and/or other materials provided with the distribution.
+# 
+# THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+# AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+# DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+# FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+# DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+# SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+# CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+# OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+# OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+env:
+  global:
+    - secure: "omNf9tXaXwYddXEBsYeKiAnHnN8qfo6slsojyY7Gks+wqlE0hr9oKqeUzmWM986LZpIFh/fnnIt3/GfEJ+TD19kPiG1fu9cqkvqGwugnunshlJ4nTouBRbdmWO9kv5OOHHGDyPMPVjTwoAKAdR/uUa/G00qBwucZ5+9xTKq6ukN2Cs2yNV6um1xaK+Zlb6KpFF3bdb+lbEF2Sb4HhS/DB4lZ1mGuAZ93w+TbepqvvDt1ICzcB84UuTXxEe31s7M3yObiEhCaLOcnDTWbcjHkkGOLIREJFPP4+x9gWv7Wwk9w6Irk98w/5R/quacYwvsp+Phg369jy1IGmAxP+tjx/A3PEa4avSZ12PA1x23zil1kW0suegRaJdNTHGNPIwLQM8LGkqVR4YDMl54tpuh74W3lQLKRoIPUeC767X38tUH62VA15eKekAmL0gP9AiFE6znqwv5iiPEFbvCqaxMzMuo/tE/K3gyFhWT9qIOsXL0FO3QfIUyDgZhrKKZd1CluOnl6ONVKdtzYblsiAvGp4ZXDI8dWeA5kSNPHnRR0u8MLiiD8iUifby/Q6LP5P1o8Wfy1ihZExxPGRRpczVO7FVpRuKFW8ibDKqa+e4l4M3/j+HieTn+b6EHs8ucF2NvsLXVSirRouyVWXmGMfAQSuCw4Blt74I26HkY/HUX1PE0="
+    - secure: "HU3KYDWQD/uFk2Fv0pBcpa93oHJJ7goDvtf0zy2B/HDMnimFad6b9wrb/D/6utglnS4We5e1hoZKCKmpuWuzpdYgLMfaG04NN7YcwPXd2RtL79MocySHwSnuSmJGRD9+UYzKR7tR8oc871R5pozi2K7w+cfGlxIINB544f6DbAcOGa5mYfObO6lWjp5B6AfNz35syEyCpPEl1gNiQuWKLlwQyx2yA1ZvawKN8ZRbdyE5Pod+2HdFFsYgJzscCW9mUIoficr+zukP2bXkgSbbzOkXUemX59FKnsGVBzBOFPAiTMLBgR/Ye5K0bSlmjJwwY15BToDHoUAMjTShCBjcYBkRKhyx2lFtdJqJ5nqgk/J0Z5IHr/6Ukyoog2gs29FoUxFN301AFdB+lBXKNOATCvlO2RpmyKk/Eh9CWXuvInwvMM0epGHex131Pg69xjMFS+JYpFV4El0+8tKChXnLfFbgEabGjiLvOR7Tts990ex14bliYgeIC0ry4EMJxYuU+rhUwwjNC3QboL3E5a6+bGAUAO0HwxgT5uVOGIzw+tCs3+v8YzjeiZ0Tk8JQHu83A5V0qKibp8SU5hzSJiKzMCqj9Qz4AJXjtTT6enSMRaoCR0LVHp+qrL+BxfVfYhbwoAewLAkl/pEZBf8e5bEijjYeyL6+0Xtru6W0q5iogSQ="
+    - secure: "JAVEOvUGMZbIxo+8g4hxHHu6tVaKZycXxir4sr2r1WJGJvQ72sh2a1IsUKv3JAeRoho2NvWsVhLniHQjbKeKj59HQBhWBl+9u/GuU7icM+fxQ8ZnLKrG+CHH3Xknn9zXY8a09IaukA/DLf1xFTBWiQ1ITpMKbgn382QxGm89rrXL6B9ZboUTui3PayOX1k3S7IDYSfjDi4NVAeSd2SQYrY3R1Ei+XzYI/mBPm8C+Nb0XBN5oh3+3aaGEwZPmQStz50fhUAmlJ4ZLMzsO+G4+L+mkGz3SZqZvGOeS5ukhOWU/pnnMu5ZEP337N9pC8npdk/dSm5LrhHNkAFYIcvz3CjoksV0NNDyt+0XRQZvfMM2r/o2SjwJaOeMLyDvLgsro3kG6n5oly/56En1mXcoSKgz7z69Cuu58nuUnLrv6d+acGqFr2X6FjQI2nKrMEbEJjD9vOirnUdlQfrOxKgYFXvqygizfna+e9gwKi2nRhuDoydw/kdUG26C40OCNoK3tGwVmc1W+J+dwLHHzJJD6F4I5aGXHE+9NH2aLqSgTeydNJs2oIX3cuHtDHNyuvJuJ1zESIV7vEgmNsWtdMo2ZEYpW218fqXlwrflBh03ksxmofPt1UlNDhWO6dJkNT3tKS6VPKJiAMU8pG7Bfb8gGU+UyQmOjkCySg2PiLWQmrdM="
+
+language: java
+jdk:
+  - openjdk8
+install: ./gradlew --version
+script:
+  - ./build.sh
