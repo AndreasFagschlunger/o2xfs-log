@@ -30,7 +30,9 @@ package at.o2xfs.log;
 /**
  * @author Andreas Fagschlunger
  *
+ * @deprecated use {@link org.apache.logging.log4j.Logger}
  */
+@Deprecated
 public interface Logger {
 
 	public boolean isDebugEnabled();

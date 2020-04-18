@@ -5,4 +5,4 @@ Simple logging facade, uses [Apache Log4j 2](https://logging.apache.org/log4j/2.
 
 ## Code Status
 
-[![Build Status](https://api.travis-ci.org/AndreasFagschlunger/o2xfs-log.svg?branch=develop)](https://travis-ci.org/AndreasFagschlunger/o2xfs-log)
+[![Build Status](https://api.travis-ci.com/AndreasFagschlunger/o2xfs-log.svg?branch=develop)](https://travis-ci.com/AndreasFagschlunger/o2xfs-log)
