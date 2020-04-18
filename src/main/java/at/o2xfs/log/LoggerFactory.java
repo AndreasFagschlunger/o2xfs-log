@@ -34,7 +34,9 @@ import at.o2xfs.log.log4j.Log4jLogger;
 /**
  * @author Andreas Fagschlunger
  *
+ * @deprecated use {@link org.apache.logging.log4j.LogManager}
  */
+@Deprecated
 public class LoggerFactory {
 
 	public static Logger getLogger(Class<?> clazz) {
